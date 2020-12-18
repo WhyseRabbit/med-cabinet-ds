@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow-directml = "==1.15.3.dev200911"
+numpy = "==1.18.5"
+ipykernel = "*"
+pandas = "*"
+scikit-learn = "*"
+clean-text = "*"
+requests = "*"
+spacy = "*"
+h5py = "==2.7.0rc2"
+
+[requires]
+python_version = "3.6"
