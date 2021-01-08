@@ -10,6 +10,9 @@ pandas = "*"
 numpy = "*"
 jupyterlab = "*"
 notebook = "*"
+scikit-learn = "*"
+matplotlib = "*"
+pandas-profiling = "*"
 
 [dev-packages]
 
